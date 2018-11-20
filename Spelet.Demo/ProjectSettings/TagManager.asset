@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - JumpPad
+  - "V\xE4nd"
+  - "D\xD6DSHYLLAN"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PLayer
+  - Utmaning 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: GameOver
+    uniqueID: 742949295
+    locked: 0
+  - name: Utmaning_2
+    uniqueID: 2173119413
+    locked: 0
+  - name: bakgrund
+    uniqueID: 1116814595
+    locked: 0
+  - name: Objekt
+    uniqueID: 3747261027
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: spelare
+    uniqueID: 2409415451
+    locked: 0
